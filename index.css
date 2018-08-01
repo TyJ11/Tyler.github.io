@@ -1,0 +1,36 @@
+.footer{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:blue;
+    color:black;
+    align-items:center;
+    font-size:40px;
+    margin-top:20px;
+    margin-bottom:20px;
+    
+}
+.aboutme{
+    border:1px solid black;   
+}
+
+.footer{
+    display:flex;
+    justify-content:space-around;
+}
+.mid{
+    display:flex;
+    justify-content:space-between;
+    
+}
+img{
+    width:663px;
+    height:300px;
+}

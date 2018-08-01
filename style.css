@@ -1,0 +1,37 @@
+.footer{   
+
+    background-color:purple;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:purple;
+    color:black;
+    align-items:center;
+    font-size:10px;
+    margin-top:10px;
+    margin-bottom:0px;
+    display:flex;
+    justify-content:space-between;
+    font-family: 'Courgette', cursive;
+}
+.aboutme{
+    border:1px solid blue;   
+}
+
+.footer{
+    display:flex;
+    justify-content:space-around;
+    
+}
+img{
+    width:663px;
+    height:500px;
+}
+#kyrie{
+    height:300;
+}
